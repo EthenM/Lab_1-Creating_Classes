@@ -10,7 +10,7 @@ namespace Lab_1___Creating_Classes
 
     public enum Colours { Blue, Red, Green, Yellow, Purple, Black, White };
 
-    internal class main
+    internal class Program
     {
         public static void Main(string[] args)
         {
